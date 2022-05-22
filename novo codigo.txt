@@ -1,2 +1,3 @@
-olá este é um novo aprendizado na vida
+﻿olá este é um novo aprendizado na vida
 esta e a segunda linha de comando para uma nova branch
+Esta é a criaçao de uma nova branch staging ao projeto
